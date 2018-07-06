@@ -35,7 +35,6 @@ section {
   width: 100%;
 }
 
-/* ID Selector */
-#last-three {
+.last-three {
   background-color: blue;
 }
